@@ -17,8 +17,8 @@ python instalocker.py
 - Follow the GUI to use the program.
 
 ## Credits
-- discord: @borgo.xy
-- website: https://borgoxy.xyz/
+- discord: @borgo.xyz
+- website: https://borgoxy.xyz/ 
 
 ## Disclaimer
 
