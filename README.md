@@ -1,25 +1,15 @@
 # Valorant Instalocker
 
-Valorant Instalocker is a Python script and graphical user interface (GUI) tool that allows you to automate the process of selecting your preferred agent in the game Valorant during the champion selection screen. This tool uses Riot Games' APIs to achieve this functionality.
+ValoLocker is a python based program that offers a way to lock a Valorant Agent before anyone else! It comes with a clean and intuitive GUI!
+![ValoLocker Main](imgs/image.png)
+![ValoLocker Utility](imgs/image1.png)
+![ValoLocker Helpy](imgs/image2.png)
 
-## How To Use
-
-- Clone or download the repository.
-- Make sure to have python 3.X on your system.
-- Install the required packages:
-```py
-pip install requests tkinter ttkthemes
-```
-- Run the instalocker by either opening the exe or running it from the source using:
-```py
-python instalocker.py
-```
-- Follow the GUI to use the program.
-
-## Credits
-- discord: @borgo.xyz
-- website: https://borgoxy.xyz/ 
-
+## Buy instalocker
+You can buy instalocker by:
+- Message me to buy the Instalocker
+- Discord: borgo.xyz
+- Website: https://borgoxy.xyz (if offline use other contacts)
+- 
 ## Disclaimer
-
-This tool is provided for educational and informational purposes only. Use it responsibly and in compliance with Riot Games' terms of service. The creators of this tool are not responsible for any consequences that may arise from its use.
+I am **NOT** responsible for what you do with this tool, use this tool at ur own risk (almost none XD).
