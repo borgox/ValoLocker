@@ -1,4 +1,7 @@
-# 🎮 Valorant Instalocker - ValoLocker
+# OUTDATED: DM @borghettoo ON DISCORD TO PURCHASE NEW VERSION
+
+
+#🎮 Valorant Instalocker - ValoLocker
 
 ![ValoLocker Main](imgs/image.png)
 
