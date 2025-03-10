@@ -1,4 +1,5 @@
-# OUTDATED: DM @borghettoo ON DISCORD TO PURCHASE NEW VERSION
+# OUTDATED: DM [@borghettoo](http://discord.com/users/1086612851990470671) ON DISCORD TO PURCHASE NEW VERSION
+
 
 
 #🎮 Valorant Instalocker - ValoLocker
